@@ -9,3 +9,4 @@ a script that moves the file betty from /tmp/ to /tmp/my_first_directory
 a script that deletes the file betty
 a script that deletes the directory my_first_directory in the tmp directory
 a script that changes the working directory to the previous one
+a script that lists all files even hidden ones with names beginning with a period character in the current directory and the parent of the working directory and the boot directory in long format
