@@ -9,3 +9,4 @@
 8-James_Bond : a script that sets the permission to the file hello as follows : Owner, no permission at all, Group, no permission at all and Other users, all the permissions
 9-John_Doe : a script that sets the mode of the file hello o -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10-mirror_permissions: a script that sets the mode of hello the same as olleh'S mode
+11-direcories_permissions: a script that adds execute permission to all subdirectories of the current directory for the owner, the groupowner and all users
