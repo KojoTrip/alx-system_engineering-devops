@@ -27,4 +27,10 @@
 
 13-print_float : This script prints a number with two decimal places, followed by a new line and the number is stored in th environmental variable NUM
 
+100-decimal_to_hexadecimal : This script converts a number from base 10 to base 16
 
+101-rot13 : This script encodes and decodes text using the rot13 encryption
+
+102-odd : This script prints every other line from the input starting with the first line
+
+103-water_and_stir : This script is a shell script that adds the two numbers stored in the environemtnt variables WATER and STIR and prints the results
